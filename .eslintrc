@@ -1,0 +1,13 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+
+    // 拓展配置
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended",
+        "plugin:@typescript-eslint/eslint-recommended"
+    ],
+    // 加载插件
+    "plugins": ["@typescript-eslint"]
+}

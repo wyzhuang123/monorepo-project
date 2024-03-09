@@ -1,0 +1,13 @@
+{
+    "name": "kz-app",
+    "private": true,
+    "version": "0.1.0",
+    "description": "monorepo kz app",
+    "author": "kz",
+    "license": "MIT",
+    "debug": "ts-node ./src/index.tsx",
+    "type": "module",
+    "dependencies": {
+        "kz-utils": "workspace:^"
+    }
+}

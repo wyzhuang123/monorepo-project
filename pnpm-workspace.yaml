@@ -1,0 +1,3 @@
+packages:
+  - 'packages/*'
+  - 'app/kz-app/packages/*'
